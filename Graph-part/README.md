@@ -8,6 +8,6 @@ This project processes playlists to generate embeddings, tune hyperparameters, a
 
 3. **node2vec_embeddings_hyperparameter_tuning.py**: Tunes Node2Vec hyperparameters to optimize embeddings.
 
-4. **recommender.py**: Generates track recommendations based on the group’s playlist preferences.
+4. **recommender.py**: Generates track recommendations based on the group’s playlist preferences as group_recommendations.csv.
 
 5. **evaluate.py**: Evaluates the quality of the recommendations using specifics metrics.
